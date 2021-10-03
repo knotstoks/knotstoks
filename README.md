@@ -13,13 +13,12 @@
 <img align="left" width="400" height="400" src="Lantern.png">
 <a href="https://drive.google.com/drive/search?q=lantern">Lantern, a top-down shooter with a gripping and unique storyline</a> </br></br>
 Made using the Unity Game Engine for the Independent Software Development Project module in NUS. The world is surrounded by darkness, a manifestation of violence and chaos. Humans live in fear and hide away in clusters, hoping to escape the touch of darkness itself. One day, light was found. The light chased the darkness away, allowing the influence of humankind to seep into the world. The tension between the light and darkness drove the human race to create a group of warriors to drive back the darkness and spread the influence of light: “Wardens of Light”. This elite group of warriors are each issued with a lantern: a weaponised extension of their soul and willpower, to fight against the darkness and anything that stands in their way. Play as as Lumin, a newly indoctrinated Warden from the “Wardens of Light”, a group that fights against the darkness and tries to spread the influence of Light to the world.
-</br>
-</br>
+</br></br>
 
 ---
 
-</br>
-</br>
+</br></br>
+
 
 <h3 align="left">Software Engineering:</h3>
 
