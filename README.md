@@ -9,6 +9,7 @@ I create enjoyable and fun ~~games~~ experiences!
 List of my Previous Games: </br>
 [Lantern](https://drive.google.com/drive/folders/12aYxktpq7ge_3jWBOCE-DXluK3kQlcLF)🏮</br>
 [The Magician's Sacrifice](https://knotstoks.itch.io/the-magicians-sacrifice)🐰</br>
+[Hospital Havoc](https://iwazach.itch.io/hospital-havoc)🏥</br>
 [The Jewel's Arc](https://yongjiayu99.itch.io/the-jewels-arc)💎</br>
 [Unidentified Fishy Object](https://knotstoks.itch.io/unidentified-fishy-object)🐟</br>
 [Crowd wants More!](https://knotstoks.itch.io/crowd-wants-more)🤡</br>
